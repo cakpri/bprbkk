@@ -10,19 +10,32 @@ layout: staff
 	</div>
 <div class="content">
 	<header class="bprbkk-header">
+<<<<<<< HEAD
 		<h1>Staff Managemen <span>PD. BPR BKK Kab. Wonogiri</span></h1>
 		<nav class="bprbkk-staff">
 			<a href="#dewan-pengawas">Pengawas</a>
 			<a href="#skai">SKAI</a>
 			<a href="#direksi">Direksi</a>
+=======
+		<h1>Staff Managemen <span>PD BPR BKK Wonogiri</span></h1>
+		<nav class="bprbkk-staff">
+			<a href="#dewan-pengawas">Pengawas</a>
+			<a href="#direksi">Direksi</a>
+			<a href="#skai">SKAI</a>
+>>>>>>> 3ce622cbee53ed9aa7d47178c1fd79ff4cf09998
 			<a href="#kepala-bidang">Kabid</a>
 		</nav>
 	</header>
 	<div class="dummy dummy-avatar" id="dewan-pengawas">
 	<h2>Dewan Pengawas</h2>
 		<div class="tooltip tooltip-effect-1">
+<<<<<<< HEAD
 		<a href="#"><img src="/images/managemen/suwarto.png" alt="Dwi Silo R, AP.M.Si"/><h4>Dwi Silo R, AP.M.Si</h4></a>
 		<span class="tooltip-content"> Ketua Dewan Pengawas BPR BKK Kab. Wonogiri</span>
+=======
+		<a href="#"><img src="/images/managemen/dwisilo.jpg" alt="Dwi Silo R, AP.M.Si"/><h4>Dwi Silo R, AP.M.Si</h4></a>
+		<span class="tooltip-content"> Ketua Dewan Pengawas PD BPR BKK Wonogiri</span>
+>>>>>>> 3ce622cbee53ed9aa7d47178c1fd79ff4cf09998
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen" class="bprbkk-1" />
@@ -30,8 +43,13 @@ layout: staff
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
+<<<<<<< HEAD
 		<a href="#"><img src="/images/managemen/sucipto.jpg" alt="Bambang Haryadi"/><h4>Bambang Haryadi</h4></a>
 		<span class="tooltip-content">Anggota Dewan Pengawas BPR BKK Kab. Wonogiri</span>
+=======
+		<a href="#"><img src="/images/managemen/bambang_haryadi.jpg" alt="Bambang Haryadi"/><h4>Bambang Haryadi</h4></a>
+		<span class="tooltip-content">Anggota Dewan Pengawas PD BPR BKK Wonogiri</span>
+>>>>>>> 3ce622cbee53ed9aa7d47178c1fd79ff4cf09998
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
@@ -42,8 +60,13 @@ layout: staff
 	<div class="dummy dummy-avatar" id="skai">
 	<h2>SKAI</h2>
 		<div class="tooltip tooltip-effect-2">
+<<<<<<< HEAD
 		<a href="#"><img src="/images/managemen/sucipto.jpg" alt="Bambang,SE"/><h4>Bambang,SE</h4></a>
 		<span class="tooltip-content">Kepala SKAI PD. BPR BKK Kab. Wonogiri</span>
+=======
+		<a href="#"><img src="/images/managemen/bambang1.jpg" alt="Bambang,SE"/><h4>Bambang,SE</h4></a>
+		<span class="tooltip-content">Kepala SKAI PD BPR BKK Wonogiri</span>
+>>>>>>> 3ce622cbee53ed9aa7d47178c1fd79ff4cf09998
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
@@ -55,7 +78,11 @@ layout: staff
 	<h2>Direksi</h2>
 		<div class="tooltip tooltip-effect-1">
 		<a href="#"><img src="/images/managemen/sucipto.jpg" alt="Sucipto, SE"/><h4>Sucipto, SE</h4></a>
+<<<<<<< HEAD
 		<span class="tooltip-content">Direktur Utama PD. BPR BKK Kab. Wonogiri</span>
+=======
+		<span class="tooltip-content">Direktur Utama PD BPR BKK Wonogiri</span>
+>>>>>>> 3ce622cbee53ed9aa7d47178c1fd79ff4cf09998
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen" class="bprbkk-1" />
@@ -64,7 +91,11 @@ layout: staff
 		</div>
 		<div class="tooltip tooltip-effect-2">
 		<a href="#"><img src="/images/managemen/suwarto.png" alt="Suwarto, SE"/><h4>Suwarto, SE</h4></a>
+<<<<<<< HEAD
 		<span class="tooltip-content">Direktur Pemasaran PD. BPR BKK Kab. Wonogiri</span>
+=======
+		<span class="tooltip-content">Direktur Pemasaran PD BPR BKK Wonogiri</span>
+>>>>>>> 3ce622cbee53ed9aa7d47178c1fd79ff4cf09998
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
@@ -73,7 +104,11 @@ layout: staff
 		</div>
 		<div class="tooltip tooltip-effect-2">
 		<a href="#"><img src="/images/managemen/sarti.jpg" alt="Sarti, SE,MM"/><h4>Sarti, SE,MM</h4></a>
+<<<<<<< HEAD
 		<span class="tooltip-content">Direktur Umum PD. BPR BKK Kab. Wonogiri</span>
+=======
+		<span class="tooltip-content">Direktur Umum PD BPR BKK Wonogiri</span>
+>>>>>>> 3ce622cbee53ed9aa7d47178c1fd79ff4cf09998
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
@@ -85,7 +120,11 @@ layout: staff
 	<h2>Kepala Bidang</h2>
 		<div class="tooltip tooltip-effect-1">
 			<a href="#"><img src="/images/managemen/sri_hartati.png" alt="Sri Hartati, SE"/><h4>Sri Hartati, SE</h4></a>
+<<<<<<< HEAD
 			<span class="tooltip-content">Kepala Bidang Umum PD. BPR BKK Kab. Wonogiri</span>
+=======
+			<span class="tooltip-content">Kepala Bidang Umum PD BPR BKK Wonogiri</span>
+>>>>>>> 3ce622cbee53ed9aa7d47178c1fd79ff4cf09998
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen" class="bprbkk-1" />
@@ -94,7 +133,11 @@ layout: staff
 		</div>
 		<div class="tooltip tooltip-effect-2">
 			<a href="#"><img src="/images/managemen/suyono.png" alt="Suyono, SE"/><h4>Suyono, SE</h4></a>
+<<<<<<< HEAD
 			<span class="tooltip-content">Kepala Bidang Managemen Resiko PD. BPR BKK Kab. Wonogiri</span>
+=======
+			<span class="tooltip-content">Kepala Bidang Managemen Resiko PD BPR BKK Wonogiri</span>
+>>>>>>> 3ce622cbee53ed9aa7d47178c1fd79ff4cf09998
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
@@ -102,11 +145,16 @@ layout: staff
 			</div>
 		</div>
 	</div>
+<<<<<<< HEAD
 	<p class="info">Semua staff management diatas bekerja di Kantor PD. BPRBKK Kab. Wonogiri.</p>
+=======
+	<p class="info">Semua staff management di atas bekerja di Kantor PD BPR BKK Wonogiri.</p>
+>>>>>>> 3ce622cbee53ed9aa7d47178c1fd79ff4cf09998
 	<section class="related">
 		<p>Lihat juga informasi berikut:</p>
 			<a href="/about/kantor">
 				<img src="/images/jaringan_kantor_300x142.jpg" />
+<<<<<<< HEAD
 				<h3>Jaringan Kantor BPR BKK</h3>
 			</a>
 			<a href="/about">
@@ -116,3 +164,14 @@ layout: staff
 	</section>
 </div><!-- /content -->
 </div><!-- /container -->
+=======
+				<h3>Jaringan Kantor BPR BKK Wonogiri</h3>
+			</a>
+			<a href="/about">
+				<img src="/images/bprbkk_300x142.jpg" />
+				<h3>Tentang BPR BKK Wonogiri</h3>
+			</a>
+	</section>
+</div><!-- /content -->
+</div><!-- /container -->
+>>>>>>> 3ce622cbee53ed9aa7d47178c1fd79ff4cf09998

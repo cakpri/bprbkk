@@ -45,8 +45,13 @@ layout: simpanan
 	</div>
 </div>
 
+<<<<<<< HEAD
 {% javascript classie %}
 {% javascript cbpScroller %}
+=======
+<script src="{{ site.url }}/assets/js/classie.js"></script>
+<script src="{{ site.url }}/assets/js/cbpScroller.js"></script>
+>>>>>>> 3ce622cbee53ed9aa7d47178c1fd79ff4cf09998
 
 <script>
 	new cbpScroller( document.getElementById( 'cbp-so-scroller' ) );
