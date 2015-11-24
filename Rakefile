@@ -40,7 +40,9 @@ namespace :blog do
 
       # Prepare all the content in the repo for deployment.
       system "git init" # Init the repo.
-      system "git add . && git commit -m 'Site updated at #{Time.now.utc}'" # Add and commit all the files.
+      system "git add ."
+	  message = "Site updated at #{Time.now.utc}"
+      system "git commit -m #{message.inspect}"
 
       # Add the origin remote for the parent repo to the tmp folder.
       system "git remote add origin #{origin}"
