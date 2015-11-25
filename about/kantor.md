@@ -151,6 +151,7 @@ class="ajax-popup-link"> SUPARMO.SE </a>
 			</ul>
 		</div>
 	</div>
+	
 	<div class="row">
 	<div class="col-md-4">
 		<div class="preview-pane">
