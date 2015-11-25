@@ -104,6 +104,22 @@ layout: kantor
 	</div>
 	<div class="row">
 	<div class="col-md-4">
+	<div class="preview-pane">
+			<img src="/images/kantor/jatipurno.jpg" class="img-responsive img-centered" alt="">
+			<h3>Jatipurno</h3>
+			<hr class="colored">
+			<p class="text-muted">Pemimpin Cabang :</p> <a href="/ajax/winarno.html" class="ajax-popup-link"> WINARNO, SE</a>
+			<ul class="list-unstyled text-muted">
+			<li>
+				<em>Alamat : Jl. Arjuno No.20 Jatipurno.</em>
+			</li>
+			<li>
+				<em>Telp : 0273.411252</em>
+			</li>
+			</ul>
+		</div>
+	</div>
+	<div class="col-md-4">
 		<div class="preview-pane">
 			<img src="/images/kantor/jatiroto.png" class="img-responsive img-centered" alt="">
 			<h3>Jatiroto</h3>
@@ -119,22 +135,7 @@ layout: kantor
 			</ul>
 		</div>
 	</div>
-	<div class="col-md-4">
-		<div class="preview-pane">
-			<img src="/images/kantor/jatipurno.jpg" class="img-responsive img-centered" alt="">
-			<h3>Jatiroto</h3>
-			<hr class="colored">
-			<p class="text-muted">Pemimpin Cabang :</p> <a href="/ajax/winarno.html" class="ajax-popup-link"> WINARNO, SE</a>
-			<ul class="list-unstyled text-muted">
-			<li>
-				<em>Alamat : Jl. Arjuno No.20 Jatipurno.</em>
-			</li>
-			<li>
-				<em>Telp : 0273.411252</em>
-			</li>
-			</ul>
-		</div>
-	</div>
+	
 	<div class="col-md-4">
 		<div class="preview-pane">
 			<img src="/images/kantor/ngadirojo.png" class="img-responsive img-centered" alt="">
