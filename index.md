@@ -51,7 +51,7 @@ layout: home
                         Produk<br> <span class="text-success">Layanan</span> BPRBKK
                     </h2>
                     <p>
-                        Produk layanan kami meliputi kredit, <br>Tamades, Deposito dan Sicipta. <br>Menjangkau bagi semua kepentingan keuangan masyarakat.<br>Segera bergabung bersama kami, <br>miliki rekening PD BPR BKK WONOGIRI dan tingkatkan saldonya.
+                        Produk layanan kami meliputi kredit, <br>Tamades, Deposito dan Sicipta. <br>Menjangkau bagi semua kepentingan keuangan masyarakat.<br>Segera bergabung bersama kami, <br>miliki rekening di <b>PD BPR BKK WONOGIRI</b> dan tingkatkan saldonya.
                     </p>
                     <div class="b-monitor js-monitor"></div>
                     <div class="form-cont has_hide">
