@@ -39,18 +39,6 @@ layout: staff
 			</div>
 		</div>
 	</div>
-	<div class="dummy dummy-avatar" id="skai">
-	<h2>SKAI</h2>
-		<div class="tooltip tooltip-effect-2">
-		<a href="#"><img src="/images/managemen/bambang1.jpg" alt="Bambang,SE"/><h4>Bambang,SE</h4></a>
-		<span class="tooltip-content">Kepala SKAI PD BPR BKK Wonogiri</span>
-			<div class="tooltip-shape">
-				<svg height="165px" width="220px">
-				<use xlink:href="#managemen-2" class="bprbkk-1" />
-				</svg>
-			</div>
-		</div>
-	</div>
 	<div class="dummy dummy-avatar" id="direksi">
 	<h2>Direksi</h2>
 		<div class="tooltip tooltip-effect-1">
@@ -74,6 +62,18 @@ layout: staff
 		<div class="tooltip tooltip-effect-2">
 		<a href="#"><img src="/images/managemen/sarti.jpg" alt="Sarti, SE,MM"/><h4>Sarti, SE,MM</h4></a>
 		<span class="tooltip-content">Direktur Umum PD BPR BKK Wonogiri</span>
+			<div class="tooltip-shape">
+				<svg height="165px" width="220px">
+				<use xlink:href="#managemen-2" class="bprbkk-1" />
+				</svg>
+			</div>
+		</div>
+	</div>
+	<div class="dummy dummy-avatar" id="skai">
+	<h2>SKAI</h2>
+		<div class="tooltip tooltip-effect-2">
+		<a href="#"><img src="/images/managemen/bambang1.jpg" alt="Bambang,SE"/><h4>Bambang,SE</h4></a>
+		<span class="tooltip-content">Kepala SKAI PD BPR BKK Wonogiri</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
 				<use xlink:href="#managemen-2" class="bprbkk-1" />
