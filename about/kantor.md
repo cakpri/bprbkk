@@ -7,7 +7,7 @@ layout: kantor
 	<div class="col-md-4">
 		<div class="preview-pane">
 			<img src="/images/kantor/pusat.png" class="img-responsive img-centered" alt="">
-			<h3>PD. BPRBKK <span class="label label-primary">Pusat</span></h3>
+			<h3><span class="label label-primary">Kantor Pusat Operasional</span></h3>
 			<hr class="colored">
 			<p class="text-muted">Pemimpin KPO : SUPARMO.SE</p>
 			<ul class="list-unstyled text-muted">
@@ -74,7 +74,7 @@ layout: kantor
 			<img src="/images/kantor/giritontro.png" class="img-responsive img-centered" alt="">
 			<h3>Giritontro</h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin Cabang :</p> <a href="/ajax/yani-harmini.html" class="ajax-popup-link"> SARWONO, SE</a>
+			<p class="text-muted">Pemimpin Cabang :</p> <a href="/ajax/sarwono.html" class="ajax-popup-link"> SARWONO, SE</a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl. Raya Giritontro.</em>
@@ -90,7 +90,7 @@ layout: kantor
 			<img src="/images/kantor/giriwoyo.png" class="img-responsive img-centered" alt="">
 			<h3>Giriwoyo</h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin Cabang :</p> <a href="/ajax/yani-harmini.html" class="ajax-popup-link"> GIYASTANTO, SE</a>
+			<p class="text-muted">Pemimpin Cabang :</p> <a href="/ajax/giyastanto.html" class="ajax-popup-link"> GIYASTANTO, SE</a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl. Wijaya Kusuma No 94 Giriwoyo.</em>
@@ -115,6 +115,23 @@ layout: kantor
 			</li>
 			<li>
 				<em>Telp : 0273.411637,3300392</em>
+			</li>
+			</ul>
+		</div>
+	</div>
+	<div class="row">
+	<div class="col-md-4">
+		<div class="preview-pane">
+			<img src="/images/kantor/jatipurno.png" class="img-responsive img-centered" alt="">
+			<h3>Jatiroto</h3>
+			<hr class="colored">
+			<p class="text-muted">Pemimpin Cabang :</p> <a href="/ajax/winarno.html" class="ajax-popup-link"> DWI PURWO, SE</a>
+			<ul class="list-unstyled text-muted">
+			<li>
+				<em>Alamat : Jl. Arjuno No.20 Jatipurno.</em>
+			</li>
+			<li>
+				<em>Telp : 0273.411252</em>
 			</li>
 			</ul>
 		</div>
