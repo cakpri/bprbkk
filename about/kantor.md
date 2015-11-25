@@ -56,8 +56,7 @@ layout: kantor
 			<img src="/images/kantor/girimarto.png" class="img-responsive img-centered" alt="">
 			<h3>Girimarto</h3>
 			<hr class="colored">
-			<p class="text-muted">
-							Pemimpin Cabang :</p> <a href="/ajax/yani-harmini.html" class="ajax-popup-link">YANI HARMINI, SP</a>
+			<p class="text-muted">Pemimpin Cabang :</p> <a href="/ajax/yani-harmini.html" class="ajax-popup-link">YANI HARMINI, SP</a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl. Sinuwun No 29 Tambak Merang, Girimarto.</em>
@@ -135,7 +134,6 @@ layout: kantor
 			</ul>
 		</div>
 	</div>
-	
 	<div class="col-md-4">
 		<div class="preview-pane">
 			<img src="/images/kantor/ngadirojo.png" class="img-responsive img-centered" alt="">
