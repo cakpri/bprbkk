@@ -65,6 +65,6 @@ Lihat Lebih lanjut tentang Profil BPRBKK
 - [BPRBKK Managemen](/about/staff)
   Meliputi informasi tentang Dewan Pengawas, SKAI, Direksi dan Kepala Bidang
 - [Jaringan Kantor](/about/kantor)
-  Meliputi informasi tentang Kantor Cabang, Termasuk Alamat Kantor, dan Pimpinan Cabang atau Pinca
+  Meliputi informasi tentang Kantor Cabang, Termasuk Alamat Kantor, dan Pimpinan Cabang 
 - [Hubungi Kami](/about/kontak)
   Silakan hubungi kami jika ada sesuatu yang ingin disampaikan.
