@@ -9,7 +9,8 @@ layout: kantor
 			<img src="/images/kantor/pusat.png" class="img-responsive img-centered" alt="">
 			<h3><span class="label label-primary">Kantor Pusat Operasional</span></h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin KPO : SUPARMO.SE</p>
+			<p class="text-muted">Pemimpin KPO</p> : <a href="/ajax/suparmo.html" 
+class="ajax-popup-link"> SUPARMO.SE </a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl. Jend. Sudirman No 234 Wonogiri.</em>
@@ -123,7 +124,7 @@ layout: kantor
 			<img src="/images/kantor/jatiroto.png" class="img-responsive img-centered" alt="">
 			<h3>Jatiroto</h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin Cabang :</p> <a href="/ajax/yani-harmini.html" class="ajax-popup-link"> DWI PURWO, SE</a>
+			<p class="text-muted">Pemimpin Cabang :</p> <a href="/ajax/dwi_purwo.html" class="ajax-popup-link"> DWI PURWO, SE</a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl. Raya No 68 Jatiroto.</em>
@@ -139,7 +140,7 @@ layout: kantor
 			<img src="/images/kantor/ngadirojo.png" class="img-responsive img-centered" alt="">
 			<h3>Ngadirojo</h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin Cabang :</p> <a href="/ajax/yani-harmini.html" class="ajax-popup-link"> SUHARTATIK. SE</a>
+			<p class="text-muted">Pemimpin Cabang :</p> <a href="/ajax/suhartatik.html" class="ajax-popup-link"> SUHARTATIK. SE</a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl Kepodang No 4 Ngadirojo.</em>
@@ -150,12 +151,13 @@ layout: kantor
 			</ul>
 		</div>
 	</div>
+	<div class="row">
 	<div class="col-md-4">
 		<div class="preview-pane">
 			<img src="/images/kantor/purwantoro.jpg" class="img-responsive img-centered" alt="">
 			<h3>Purwantoro</h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin Cabang :</p> <a href="/ajax/yani-harmini.html" class="ajax-popup-link"> SURATNI, SE</a>
+			<p class="text-muted">Pemimpin Cabang :</p> <a href="/ajax/suratni.html" class="ajax-popup-link"> SURATNI, SE</a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl. Pemudah No 35 Purwantoro.</em>
@@ -167,13 +169,12 @@ layout: kantor
 		</div>
 	</div>
 	</div>
-	<div class="row">
 	<div class="col-md-4">
 		<div class="preview-pane">
 			<img src="/images/kantor/slogohimo.png" class="img-responsive img-centered" alt="">
 			<h3>Slogohimo</h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin Cabang :</p> <a href="/ajax/yani-harmini.html" class="ajax-popup-link"> AGUS SRIYANTO, SE</a>
+			<p class="text-muted">Pemimpin Cabang :</p> <a href="/ajax/agus_sriyanto.html" class="ajax-popup-link"> AGUS SRIYANTO, SE</a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl. Punggawan No 01 Slogohimo.</em>
@@ -189,7 +190,7 @@ layout: kantor
 			<img src="/images/kantor/tirtomoyo.png" class="img-responsive img-centered" alt="">
 			<h3>Tirtomoyo</h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin Cabang :</p> <a href="/ajax/yani-harmini.html" class="ajax-popup-link"> HENDRA DEDY KUSUMA, SE</a>
+			<p class="text-muted">Pemimpin Cabang :</p> <a href="/ajax/hendra_dedy.html" class="ajax-popup-link"> HENDRA DEDY KUSUMA, SE</a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl Raya No 51 Tirtomoyo.</em>
