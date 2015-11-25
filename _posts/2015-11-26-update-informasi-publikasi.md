@@ -42,3 +42,5 @@ I				| 2012				| [Download](/publikasi/2012/20120331.pdf)
 II				| 2012				| [Download](/publikasi/2012/20120630.pdf)
 III				| 2012				| [Download](/publikasi/2012/20120930.pdf)
 IV				| 2012				| [Download](/publikasi/2012/20121231.pdf)
+
+<img src="{{ site.baseurl }}/images/blog/2015/bprbkk4.png" alt="BPRBKK">
