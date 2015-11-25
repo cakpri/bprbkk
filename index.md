@@ -17,7 +17,7 @@ layout: home
 	<div class="container clearfix">
 		<div class="b-logo pull-left"></div>
 		<div class="js--header-user pull-right b-header--user">
-			<a href="/news" class="text-default">Berita BPRBKK</a>
+			<a href="/news" class="text-default">Berita BPR BKK WONOGIRI</a>
 		</div>
 	</div>
 </div>
@@ -25,15 +25,15 @@ layout: home
     <div class="section section1 section1__10off" data-index="1">
         <div class="vertical-block">
             <div class="text-center vertical-block--inner">
-                <p class="text has_hide b-platforms">Ayo ke BKK di kotamu</p>
+                <p class="text has_hide b-platforms">Ayo ke BPR BKK Wonogiri di kotamu</p>
                 <h1 class="text has_hide ">Tingkatkan Tabungan<br/>&laquo; Dapatkan Hadiah Menarik &raquo;                                    </h1>
                 <p class="text has_hide">
-                    Segera <b>Diundi 2016!</b></p>
+                    Segera <b>Diundi Januari 2016!</b></p>
                 <div class="form-cont clearfix has_hide">
                     <a href="/produk/simpanan" class="buynow btn btn-inverse btn-inverse-default">
                         Mulai Menabung</a>
                     <div class="lined-text">
-                        berlaku di semua kecamatan Kab. <b>Wonogiri</b>
+                        berlaku di semua kantor Cabang <b>PD BPR BKK Wonogiri</b>
 					</div>
                     <a href="/produk/simpanan" class="btn--wrapper js-buynow-welcome-bonus buynow">
                         <div class="btn btn-danger welcome-bonus">Miliki Rekening SICIPTA</div>
@@ -51,7 +51,7 @@ layout: home
                         Produk<br> <span class="text-success">Layanan</span> BPRBKK
                     </h2>
                     <p>
-                        Produk layanan kami meliputi kredit, <br>Tamades, Deposito dan Sicipta. <br>Menjangkau bagi semua kepentingan keuangan masyarakat.<br>Segera bergabung bersama kami, <br>miliki rekening BPRBKK dan tingkatkan saldonya.
+                        Produk layanan kami meliputi kredit, <br>Tamades, Deposito dan Sicipta. <br>Menjangkau bagi semua kepentingan keuangan masyarakat.<br>Segera bergabung bersama kami, <br>miliki rekening di <b>PD BPR BKK WONOGIRI</b> dan tingkatkan saldonya.
                     </p>
                     <div class="b-monitor js-monitor"></div>
                     <div class="form-cont has_hide">
