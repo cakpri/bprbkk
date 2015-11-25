@@ -9,7 +9,7 @@ layout: kantor
 			<img src="/images/kantor/pusat.png" class="img-responsive img-centered" alt="">
 			<h3><span class="label label-primary">Kantor Pusat Operasional</span></h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin KPO</p> : <a href="/ajax/suparmo.html" 
+			<p class="text-muted">Pemimpin KPO :</p> <a href="/ajax/suparmo.html" 
 class="ajax-popup-link"> SUPARMO.SE </a>
 			<ul class="list-unstyled text-muted">
 			<li>
@@ -151,7 +151,6 @@ class="ajax-popup-link"> SUPARMO.SE </a>
 			</ul>
 		</div>
 	</div>
-	
 	<div class="row">
 	<div class="col-md-4">
 		<div class="preview-pane">
@@ -168,7 +167,6 @@ class="ajax-popup-link"> SUPARMO.SE </a>
 			</li>
 			</ul>
 		</div>
-	</div>
 	</div>
 	<div class="col-md-4">
 		<div class="preview-pane">
