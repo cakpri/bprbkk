@@ -16,19 +16,7 @@ permalink: pretty
 paginate: 8
 paginate_path: news/page:num/
 
-<<<<<<< HEAD
-assets:
-  sources:
-    - _assets/stylesheets
-    - _assets/javascripts
-
-  css_compressor: sass
-  js_compressor:  uglifier
-  cache:          true
-  cachebust: hard
-production: false
-=======
 sass:
   sass_dir: assets
   style: compressed
->>>>>>> 3ce622cbee53ed9aa7d47178c1fd79ff4cf09998
+
