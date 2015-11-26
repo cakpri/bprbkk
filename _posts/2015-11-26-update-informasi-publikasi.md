@@ -8,7 +8,7 @@ date: 2015-11-26 01:44:00
 header-img: "images/blog/2015/bprbkk1.png"
 ---
 
-Informasi Publikasi BPRBKK bertujuan memudahkan masyarakat meengerti dan tahu agregat cushflow keuanggan BPR BKK Wonogiri, berikut data publikasi BPR BKK Wonogiri sampa pada Triwulan Ke 2 :
+Informasi Publikasi BPRBKK bertujuan memudahkan masyarakat mengerti dan tahu agregat cashflow keuangan BPR BKK Wonogiri, berikut data publikasi BPR BKK Wonogiri sampa pada Triwulan Ke 2 :
 
 ## Tahun 2015
 
