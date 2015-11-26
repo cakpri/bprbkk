@@ -8,7 +8,7 @@ header-img: "images/publikasi.jpg"
 ## Tahun 2015
 
 --------------- | ------- | ------------- |
-I				| 2015				| [Download](/publikasi/2015/20150330.pdf)
+I				| 2015				| [Download](/publikasi/2015/20150331.pdf)
 II				| 2015				| [Download](/publikasi/2015/20150630.pdf)
 
 ## Tahun 2014
