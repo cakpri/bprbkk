@@ -138,7 +138,7 @@ layout: home
 				<a href="/about" class="text-default">Tentang</a>
 				</div>
 		<div class="form-cont has_hide">
-                    <"www.ojk.go.id" class="buynow btn btn-inverse btn-inverse-primary" >Diawasi dan Diperiksa OJK</a>
+                    <a href="www.ojk.go.id" class="buynow btn btn-inverse btn-inverse-primary" >Diawasi dan Diperiksa OJK</a>
                 </div>
             </div>
         </div>
