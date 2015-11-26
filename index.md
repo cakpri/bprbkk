@@ -138,7 +138,7 @@ layout: home
 				<a href="/about" class="text-default">Tentang</a>
 				</div>
 		<div class="form-cont has_hide">
-                    <a href="#" class="buynow btn btn-inverse btn-inverse-primary" >Bank Terdaftar dan Diawasi OJK</a>
+                    <a>Bank Terdaftar dan Diawasi OJK</a>
                 </div>
             </div>
         </div>
