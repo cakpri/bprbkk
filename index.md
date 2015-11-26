@@ -137,6 +137,7 @@ layout: home
 				<a href="/news" class="text-default">Berita</a> |
 				<a href="/about" class="text-default">Tentang</a>
 				</div>
+			<a href="#" class="buynow btn btn-success">Terdaftar dan Diawasi OJK</a>
             </div>
         </div>
     </div>
