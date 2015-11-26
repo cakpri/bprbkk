@@ -140,8 +140,4 @@ layout: home
             </div>
         </div>
     </div>
-    <div class="text has_hide">Terdaftar dan Diawasi</div>
-                <div class="form-cont has_hide">
-                    <a href="#" class="buynow btn btn-success">Otoritas Jasa Keuangan</a>
-                </div>
 </div>
