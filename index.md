@@ -137,7 +137,7 @@ layout: home
 				<a href="/news" class="text-default">Berita</a> |
 				<a href="/about" class="text-default">Tentang</a>
 				</div>
-		<div class="form-cont has_hide">
+		<div>
                     <a>Bank Terdaftar dan Diawasi OJK</a>
                 </div>
             </div>
