@@ -5,7 +5,7 @@ subtitle:   "Update Informasi Publikasi BPRBKK Transparansi Kesehatan Perbankan 
 description: "Update Informasi Publikasi BPRBKK Transparansi Kesehatan Perbankan PD. BPR BKK"
 author: "BPR BKK"
 date: 2015-11-26 01:44:00
-header-img: "images/blog/2015/bprbkk1.png"
+header-img: "images/blog/2015/bprbkk_02.png"
 ---
 
 Informasi Publikasi BPRBKK bertujuan memudahkan masyarakat mengerti dan tahu agregat cashflow keuangan BPR BKK Wonogiri, berikut data publikasi BPR BKK Wonogiri sampa pada Triwulan Ke 2 :
