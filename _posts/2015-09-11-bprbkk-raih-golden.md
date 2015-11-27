@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BPR BKK Wonogiri Raih GOlden Award
+title: BPR BKK Wonogiri Raih Golden Award
 subtitle:   "Raih Golden Award."
 description: ""
 author: "dwis"
