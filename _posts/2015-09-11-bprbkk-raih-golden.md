@@ -5,7 +5,7 @@ subtitle:   "Raih Golden Award."
 description: ""
 author: "dwis"
 date: 2015-09-11 01:44:00
-header-img: "images/blog/2015/golden.png"
+header-img: "images/blog/2015/tasikmadu.png"
 ---
 
 Enam kali raih Golden Award
