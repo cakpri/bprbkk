@@ -2,8 +2,8 @@
 layout: post
 title: Kunjungan BPR BKK Tasikmadu
 subtitle:   "Kunjungan study banding PD BPR BKK Tasikmadu."
-description: "Kunjungan study banding PD BPR BKK Tasikmadu"
-author: "BPR BKK"
+description: ""
+author: "dwis"
 date: 2015-05-05 01:44:00
 header-img: "images/blog/2015/tasikmadu.png"
 ---
