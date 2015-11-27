@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Semarak 8 th Merger BPR BKK Wonogiri
-subtitle:   "HUT Merger."
+subtitle:   "HUT Merger BPR BKK Wonogiri."
 description: ""
 author: "dwis"
 date: 2013-11-24 01:44:00
