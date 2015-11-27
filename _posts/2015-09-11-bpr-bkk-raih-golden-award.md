@@ -2,7 +2,7 @@
 layout: post
 title: BPR BKK Wonogiri Raih Golden Award
 subtitle:   "Enam kali raih Golden Award."
-description: ""
+description: "Golden Award"
 author: "dwis"
 date: 2015-09-11 01:44:00
 header-img: "images/blog/2015/golden.png"
@@ -10,8 +10,7 @@ header-img: "images/blog/2015/golden.png"
 
 ##Enam kali raih Golden Award
 
-<div style="text-align: justify;">PERUSAHAAN Daerah (PD) Bank Perkreditan Rakyat (BPR) Badan Kredit Kecamatan (BKK) Wonogiri, kembali meraih prestasi tingkat nasional, yakni anugerah Golden Awards 2015 dengan predikat sangat bagus.Anugerah bergengsi yang diberikan oleh Info Bank itu merupakan kali keenam diterima BPR-BKK Wonogiri secara berturut-turut, untuk kategori aset Rp 250 miliar-Rp 500 miliar. ”Telah enam kali berturut- turut, kami menerima penghargaan Golden Awards dengan nilai sangat bagus,” ujar Direktur Utama (Dirut) PD BPR-BKK Wonogiri, Sucipto, kemarin.Dia mengungkapkan, meskipun persaingan perbankan tumbuh sangat ketat, tetapi PD BPR-BKK Wonogiri tetap eksis. Hal itu dimulai pada 2006, ketika masih memakai nama PD BPR-BKK Wonogiri Kota. Pada tahun itu kemudian dilakukan merger, dan nama Kota terhapuskan. Sejak itu, eksis dengan nama BPR-BKK Wonogiri.</div>
-<div style="text-align: justify;">Menurut Sucipto, awal merger asetnya hanya Rp 76 miliar. Tetapi sekarang mampu tumbuh Rp 265 miliar. Saat ini mampu menghimpun dana masyarakat Rp 207 miliar, dan disalurkan sebanyak Rp 242 miliar. Dalam upaya menghimpun dana masyarakat, BPRBKK Wonogiri menawarkan aneka produk tabungan unggulan, yakni Tabungan Masyarakat Desa (Tamades), deposito, dan tabungan Simpanan Cocok Idola Pelajar dan Wiraswata (Sicipta).</div>
+<div style="text-align: justify;">PERUSAHAAN Daerah (PD) Bank Perkreditan Rakyat (BPR) Badan Kredit Kecamatan (BKK) Wonogiri, kembali meraih prestasi tingkat nasional, yakni anugerah Golden Awards 2015 dengan predikat sangat bagus.Anugerah bergengsi yang diberikan oleh Info Bank itu merupakan kali keenam diterima BPR-BKK Wonogiri secara berturut-turut, untuk kategori aset Rp 250 miliar-Rp 500 miliar. ”Telah enam kali berturut- turut, kami menerima penghargaan Golden Awards dengan nilai sangat bagus,” ujar Direktur Utama (Dirut) PD BPR-BKK Wonogiri, Sucipto, kemarin.Dia mengungkapkan, meskipun persaingan perbankan tumbuh sangat ketat, tetapi PD BPR-BKK Wonogiri tetap eksis. Hal itu dimulai pada 2006, ketika masih memakai nama PD BPR-BKK Wonogiri Kota. Pada tahun itu kemudian dilakukan merger, dan nama Kota terhapuskan. Sejak itu, eksis dengan nama BPR-BKK Wonogiri. Menurut Sucipto, awal merger asetnya hanya Rp 76 miliar. Tetapi sekarang mampu tumbuh Rp 265 miliar. Saat ini mampu menghimpun dana masyarakat Rp 207 miliar, dan disalurkan sebanyak Rp 242 miliar. Dalam upaya menghimpun dana masyarakat, BPRBKK Wonogiri menawarkan aneka produk tabungan unggulan, yakni Tabungan Masyarakat Desa (Tamades), deposito, dan tabungan Simpanan Cocok Idola Pelajar dan Wiraswata (Sicipta).</div>
 
 ##Berhadiah Mobil
 
