@@ -6,7 +6,7 @@ header-img: "images/publikasi.jpg"
 ---
 
 ## Tahun 2015
-
+| Triwulan Ke:	| Tahun | File Download |
 --------------- | ------- | ------------- |
 I				| 2015				| [Download](/publikasi/2015/20150331.pdf)
 II				| 2015				| [Download](/publikasi/2015/20150630.pdf)
