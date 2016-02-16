@@ -26,7 +26,7 @@ class="ajax-popup-link"> SUPARMO.SE </a>
 			<img src="/images/kantor/baturetno.png" class="img-responsive img-centered" alt="">
 			<h3>Baturetno</h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/satino.html" class="ajax-popup-link"> SATINO, SE</a>
+			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/agus_sriyanto.html" class="ajax-popup-link"> AGUS SRIYANTO, SE</a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl. Raya Baturetno - Wonogiri Km.3</em>
@@ -108,7 +108,7 @@ class="ajax-popup-link"> SUPARMO.SE </a>
 			<img src="/images/kantor/jatipurno.jpg" class="img-responsive img-centered" alt="">
 			<h3>Jatipurno</h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/winarno.html" class="ajax-popup-link"> WINARNO, SE</a>
+			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/satino.html" class="ajax-popup-link"> SATINO, SE</a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl. Arjuno No.20 Jatipurno.</em>
@@ -124,7 +124,7 @@ class="ajax-popup-link"> SUPARMO.SE </a>
 			<img src="/images/kantor/jatiroto.png" class="img-responsive img-centered" alt="">
 			<h3>Jatiroto</h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/dwi_purwo.html" class="ajax-popup-link"> DWI PURWO, SE</a>
+			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/suratni.html" class="ajax-popup-link"> SURATNI, SE</a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl. Raya No 68 Jatiroto.</em>
@@ -157,7 +157,7 @@ class="ajax-popup-link"> SUPARMO.SE </a>
 			<img src="/images/kantor/purwantoro.jpg" class="img-responsive img-centered" alt="">
 			<h3>Purwantoro</h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/suratni.html" class="ajax-popup-link"> SURATNI, SE</a>
+			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/winarno.html" class="ajax-popup-link"> WINARNO, SE</a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl. Pemudah No 35 Purwantoro.</em>
@@ -173,7 +173,7 @@ class="ajax-popup-link"> SUPARMO.SE </a>
 			<img src="/images/kantor/slogohimo.png" class="img-responsive img-centered" alt="">
 			<h3>Slogohimo</h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/agus_sriyanto.html" class="ajax-popup-link"> AGUS SRIYANTO, SE</a>
+			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/dwi_purwo.html" class="ajax-popup-link"> DWI PURWO, SE</a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl. Punggawan No 01 Slogohimo.</em>
