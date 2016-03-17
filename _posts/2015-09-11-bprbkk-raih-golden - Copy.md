@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BPR BKK Wonogiri Raih Golden Award
+title: Loren impesum
 subtitle:   "Raih Golden Award."
 description: ""
 author: "dwis"
