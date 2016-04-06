@@ -34,8 +34,6 @@ layout: home
                         Mulai Menabung</a>
                     <div class="lined-text">
                         berlaku di semua kantor Cabang <b>PD BPR BKK Wonogiri</b>
-                    <div class="lined-text">
-                        *) Syarat dan ketentuan berlaku</b>
                     </div>
                     <a href="/produk/simpanan" class="btn--wrapper js-buynow-welcome-bonus buynow">
                         <div class="btn btn-danger welcome-bonus">Miliki Rekening SICIPTA</div>
