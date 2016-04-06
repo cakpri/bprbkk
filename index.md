@@ -129,7 +129,7 @@ layout: home
                 <h3 class="text has_hide">
                     ONE-TIME OFFER JUNI 2016<br><span class="text-thin">Buka Deposito dan Dapatkan</span>
                 </h3>
-                <div class="text-large text has_hide">HADIAH LANGSUNG</div>
+                <div class="text-large text has_hide">HADIAH</div>
                 <div class="form-cont has_hide">
                     <a href="#" class="buynow btn btn-success">Miliki Rekening Deposito</a>
                 </div>
