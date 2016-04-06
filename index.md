@@ -6,7 +6,7 @@ layout: home
 	<div class="container clearfix">
 		<i class="pull-left save"></i>
 		<p class="pull-left">
-			<b>Jangan Lupa!</b><br>Tambah terus saldo tabungan kamu dan dapatkan Toyota Agya.
+			<b>Bulan Promosi!</b><br>Buka Deposito dan dapatkan Hadiah Langsung *).
 		</p>
 		<div class="pull-right">
 			<a class="buynow btn btn-success" href="/produk/simpanan">Ayo Menabung!</a>
@@ -26,7 +26,7 @@ layout: home
         <div class="vertical-block">
             <div class="text-center vertical-block--inner">
                 <p class="text has_hide b-platforms">Ayo ke BPR BKK Wonogiri di kotamu</p>
-                <h1 class="text has_hide ">Tingkatkan Tabungan<br/>&laquo; Dapatkan Hadiah Menarik &raquo;                                    </h1>
+                <h1 class="text has_hide ">Buka Deposito<br/>&laquo; Dapatkan Hadiah Menarik *) &raquo;                                    </h1>
                 <p class="text has_hide">
                     Segera <b>Diundi Januari 2016!</b></p>
                 <div class="form-cont clearfix has_hide">
@@ -34,6 +34,8 @@ layout: home
                         Mulai Menabung</a>
                     <div class="lined-text">
                         berlaku di semua kantor Cabang <b>PD BPR BKK Wonogiri</b>
+					<div class="lined-text">
+                        *) Syarat dan Ketentuan Berlaku</b>
 					</div>
                     <a href="/produk/simpanan" class="btn--wrapper js-buynow-welcome-bonus buynow">
                         <div class="btn btn-danger welcome-bonus">Miliki Rekening SICIPTA</div>
