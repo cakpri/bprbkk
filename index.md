@@ -127,11 +127,11 @@ layout: home
         <div class="vertical-block">
             <div class="text-center vertical-block--inner">
                 <h3 class="text has_hide">
-                    ONE-TIME OFFER 2016<br><span class="text-thin">Tingkatkan Saldo dan Dapatkan</span>
+                    ONE-TIME OFFER JUNI 2016<br><span class="text-thin">Buka Deposito dan Dapatkan</span>
                 </h3>
-                <div class="text-large text has_hide">Toyota AGYA</div>
+                <div class="text-large text has_hide">HADIAH LANGSUNG</div>
                 <div class="form-cont has_hide">
-                    <a href="#" class="buynow btn btn-success">Miliki Rekening Sicipta</a>
+                    <a href="#" class="buynow btn btn-success">Miliki Rekening Deposito</a>
                 </div>
 				<div class="lined-text">
 				<a href="/produk/kredit" class="text-default">Kredit</a> |
