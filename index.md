@@ -34,6 +34,7 @@ layout: home
                         Mulai Menabung</a>
                     <div class="lined-text">
                         berlaku di semua kantor Cabang <b>PD BPR BKK Wonogiri </b>
+					</div>
 					<div class="lined-text">
 					*) Syarat dan ketentuan berlaku
                     </div>
