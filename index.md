@@ -141,7 +141,7 @@ layout: home
 				<a href="/about" class="text-default">Tentang</a>
 				</div>
 		<div>
-                    <a href = "www.ojk.go.id" class="text-default">Bank Terdaftar dan Diawasi OJK</a>
+                    <a href = "#" class="text-default">Bank Terdaftar dan Diawasi OJK</a>
                 </div>
             </div>
         </div>
