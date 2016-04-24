@@ -4,7 +4,7 @@ title: BPR BKK Wonogiri Salurkan Air Bersih
 subtitle:   "Loren im pesum."
 description: ""
 author: "dwis"
-date: 2015-09-18 14:44:00
+date: 2016-04-24 14:44:00
 header-img: "images/bprbkk_blog.jpg"
 ---
 ##BPR BKK Wonogiri Peduli
