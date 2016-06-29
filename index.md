@@ -6,7 +6,7 @@ layout: home
 	<div class="container clearfix">
 		<i class="pull-left save"></i>
 		<p class="pull-left">
-			<b>Bulan Promosi!</b><br>Buka Deposito dan dapatkan hadiah langsung *).
+			<b>Gebyar Tamades!</b><br>Terus tambah saldo Tamades anda.).
 		</p>
 		<div class="pull-right">
 			<a class="buynow btn btn-success" href="/produk/simpanan">Ayo Menabung!</a>
@@ -26,9 +26,9 @@ layout: home
         <div class="vertical-block">
             <div class="text-center vertical-block--inner">
                 <p class="text has_hide b-platforms">Ayo ke BPR BKK Wonogiri di kotamu</p>
-                <h1 class="text has_hide ">Buka Deposito<br/>&laquo; Dapatkan hadiah menarik *) &raquo;                                    </h1>
+                <h1 class="text has_hide ">Gebyar Tamades 2016<br/>&laquo; Dapatkan hadiah menarik *) &raquo;                                    </h1>
                 <p class="text has_hide">
-                    Segera <b>Berlaku sampai Juni 2016!</b></p>
+                    Segera <b>Diundi bulan Agustus 2016</b></p>
                 <div class="form-cont clearfix has_hide">
                     <a href="/produk/simpanan" class="buynow btn btn-inverse btn-inverse-default">
                         Mulai Menabung</a>
@@ -127,11 +127,11 @@ layout: home
         <div class="vertical-block">
             <div class="text-center vertical-block--inner">
                 <h3 class="text has_hide">
-                    ONE-TIME OFFER JUNI 2016<br><span class="text-thin">Buka Deposito dan Dapatkan</span>
+                    BEBYAR TAMADES 2016<br><span class="text-thin">Tambah saldo Tamades dan Dapatkan</span>
                 </h3>
                 <div class="text-large text has_hide">HADIAHNYA</div>
                 <div class="form-cont has_hide">
-                    <a href="#" class="buynow btn btn-success">Miliki Rekening Deposito</a>
+                    <a href="#" class="buynow btn btn-success">Miliki Rekening Tamades</a>
                 </div>
 				<div class="lined-text">
 				<a href="/produk/kredit" class="text-default">Kredit</a> |
