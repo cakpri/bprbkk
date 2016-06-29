@@ -38,6 +38,8 @@ layout: home
 					<div class="lined-text">
 					*) Syarat dan ketentuan berlaku
                     </div>
+					<a href="/produk/simpanan" class="buynow btn btn-inverse btn-inverse-default">
+                        Rp. 10 K Dapatkan Hadiah </a>
                     <a href="/produk/simpanan" class="btn--wrapper js-buynow-welcome-bonus buynow">
                         <div class="btn btn-danger welcome-bonus">HONDA "CB 150"</div>
                     </a>
