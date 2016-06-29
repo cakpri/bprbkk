@@ -127,7 +127,7 @@ layout: home
         <div class="vertical-block">
             <div class="text-center vertical-block--inner">
                 <h3 class="text has_hide">
-                    BEBYAR TAMADES 2016<br><span class="text-thin">Tambah saldo Tamades dan Dapatkan</span>
+                    GEBYAR TAMADES 2016<br><span class="text-thin">Tambah saldo Tamades dan Dapatkan</span>
                 </h3>
                 <div class="text-large text has_hide">HADIAHNYA</div>
                 <div class="form-cont has_hide">
