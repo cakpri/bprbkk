@@ -39,7 +39,7 @@ layout: home
 					*) Syarat dan ketentuan berlaku
                     </div>
                     <a href="/produk/simpanan" class="btn--wrapper js-buynow-welcome-bonus buynow">
-                        <div class="btn btn-danger welcome-bonus">Miliki Rekening TAMADES</div>
+                        <div class="btn btn-danger welcome-bonus">HONDA "CB 150"</div>
                     </a>
                 </div>
             </div>
