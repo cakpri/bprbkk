@@ -31,7 +31,7 @@ layout: home
                     Segera <b>Diundi bulan Agustus 2016</b></p>
                 <div class="form-cont clearfix has_hide">
                     <a href="/produk/simpanan" class="buynow btn btn-inverse btn-inverse-default">
-                        Mulai Menabung</a>
+                        Tambah saldo anda</a>
                     <div class="lined-text">
                         berlaku di semua kantor Cabang <b>PD BPR BKK Wonogiri </b>
 					</div>
