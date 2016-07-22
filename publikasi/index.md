@@ -9,8 +9,8 @@ header-img: "images/publikasi.jpg"
 
 | Triwulan Ke:	| Tahun | File Download |
 --------------- | ------- | ------------- |
-I				| 2015				| [Download](/publikasi/2016/201603.pdf)
-II				| 2015				| [Download](/publikasi/2016/201606.pdf)
+I				| 2016				| [Download](/publikasi/2016/201603.pdf)
+II				| 2016				| [Download](/publikasi/2016/201606.pdf)
 
 
 ## Tahun 2015
