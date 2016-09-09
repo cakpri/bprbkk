@@ -26,9 +26,9 @@ layout: home
         <div class="vertical-block">
             <div class="text-center vertical-block--inner">
                 <p class="text has_hide b-platforms">Ayo ke BPR BKK Wonogiri di kotamu</p>
-                <h1 class="text has_hide ">Gebyar Tamades 2016<br/>&laquo; Dapatkan hadiah menarik *) &raquo;                                    </h1>
+                <h1 class="text has_hide ">Gebyar Sicipta 2017<br/>&laquo; Dapatkan hadiah menarik *) &raquo;                                    </h1>
                 <p class="text has_hide">
-                    Segera <b>Diundi bulan Agustus 2016</b></p>
+                    Segera <b>Diundi bulan Februari 2017</b></p>
                 <div class="form-cont clearfix has_hide">
                     <a href="/produk/simpanan" class="buynow btn btn-inverse btn-inverse-default">
                         Tambah saldo anda</a>
@@ -39,7 +39,7 @@ layout: home
 					*) Syarat dan ketentuan berlaku
                     </div>
                     <a href="/produk/simpanan" class="btn--wrapper js-buynow-welcome-bonus buynow">
-                        <div class="btn btn-danger welcome-bonus">HONDA "CB 150"</div>
+                        <div class="btn btn-danger welcome-bonus">DAIHATSU "ZIGRA"</div>
                     </a>
                 </div>
             </div>
@@ -127,11 +127,11 @@ layout: home
         <div class="vertical-block">
             <div class="text-center vertical-block--inner">
                 <h3 class="text has_hide">
-                    GEBYAR TAMADES 2016<br><span class="text-thin">Tambah saldo Tamades dan Dapatkan</span>
+                    GEBYAR SICIPTA 2017<br><span class="text-thin">Tambah saldo Sicipta dan Dapatkan</span>
                 </h3>
                 <div class="text-large text has_hide">HADIAHNYA</div>
                 <div class="form-cont has_hide">
-                    <a href="#" class="buynow btn btn-success">Miliki Rekening Tamades</a>
+                    <a href="#" class="buynow btn btn-success">Miliki Rekening Sicipta</a>
                 </div>
 				<div class="lined-text">
 				<a href="/produk/kredit" class="text-default">Kredit</a> |
