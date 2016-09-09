@@ -38,9 +38,8 @@ layout: home
 					<div class="lined-text">
 					*) Syarat dan ketentuan berlaku
                     </div>
-					<div class="form-cont clearfix has_hide">
-                    <a href="/produk/simpanan" class="buynow btn btn-inverse btn-inverse-default">
-                        Rp. 50K Dapatkan DAIHATSU "SIGRA"</a>
+                    <a href="/produk/simpanan" class="btn--wrapper js-buynow-welcome-bonus buynow">
+                        <div class="btn btn-danger welcome-bonus">DAIHATSU "SIGRA"</div>
                     </a>
                 </div>
             </div>
