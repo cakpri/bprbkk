@@ -28,7 +28,7 @@ layout: home
                 <p class="text has_hide b-platforms">Ayo ke BPR BKK Wonogiri di kotamu</p>
                 <h1 class="text has_hide ">Gebyar Sicipta 2017<br/>&laquo; Dapatkan hadiah menarik *) &raquo;                                    </h1>
                 <p class="text has_hide">
-                    Segera <b>Diundi bulan Februari 2017</b></p>
+                    Segera <b>Diundi bulan Januari 2017</b></p>
                 <div class="form-cont clearfix has_hide">
                     <a href="/produk/simpanan" class="buynow btn btn-inverse btn-inverse-default">
                         Tambah saldo anda</a>
