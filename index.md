@@ -39,7 +39,7 @@ layout: home
 					*) Syarat dan ketentuan berlaku
                     </div>
                     <a href="/produk/simpanan" class="btn--wrapper js-buynow-welcome-bonus buynow">
-                        <div class="btn btn-danger welcome-bonus">DAIHATSU "ZIGRA"</div>
+                        <div class="btn btn-danger welcome-bonus">DAIHATSU "SIGRA"</div>
                     </a>
                 </div>
             </div>
@@ -129,7 +129,7 @@ layout: home
                 <h3 class="text has_hide">
                     GEBYAR SICIPTA 2017<br><span class="text-thin">Tambah saldo Sicipta dan Dapatkan</span>
                 </h3>
-                <div class="text-large text has_hide">HADIAHNYA</div>
+                <div class="text-large text has_hide">Daihatsu SIGRA</div>
                 <div class="form-cont has_hide">
                     <a href="#" class="buynow btn btn-success">Miliki Rekening Sicipta</a>
                 </div>
