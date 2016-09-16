@@ -30,7 +30,7 @@ layout: staff
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-		<a href="#"><img src="/images/managemen/bambang_haryadi.jpg" alt="Bambang Haryadi"/><h4>Bambang Haryadi</h4></a>
+		<a href="#"><img src="/images/managemen/bambang_haryadi.jpg" alt="Bambang Haryadi,SH.MM"/><h4>Bambang Haryadi,SH.MM</h4></a>
 		<span class="tooltip-content">Anggota Dewan Pengawas PD BPR BKK Wonogiri</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
