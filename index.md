@@ -113,7 +113,7 @@ layout: home
         <div class="vertical-block">
             <div class="text-center vertical-block--inner">
                 <h3 class="text has_hide">
-                    GEBYAR SICIPTA 2017<br><span class="text-thin">Daftar Pemenang Undian </span>
+                    DAFTAR PEMENANG<br><span class="text-thin">Undian Hadiah Tabungan</span>
                 </h3>
                 <div class="text-large text has_hide">SICIPTA 2017</div>
                 <div class="form-cont has_hide">
