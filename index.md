@@ -25,8 +25,8 @@ layout: home
     <div class="section section1 section1__10off" data-index="1">
         <div class="vertical-block">
             <div class="text-center vertical-block--inner">
-                <p class="text has_hide b-platforms">Ayo ke Bank</p>
-                <h1 class="text has_hide ">PD BPR BKK WONOGIRI<br/>&laquo; Dapatkan Produk dan Layanan Kami... &raquo;                                    </h1>
+                
+                <h1 class="text has_hide "> <br/>&laquo; Dapatkan Produk dan Layanan Kami... &raquo;                                    </h1>
                 
             </div>
         </div>
