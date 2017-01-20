@@ -174,3 +174,25 @@ Fasilitas kredit yang diberikan untuk masyarakat dalam bentuk kredit kepemilikan
 - Plafond hingga maksimal Rp.50 juta;
 - Dapat take over dari bank lain;
 
+## Kredit Mikro BKK
+
+Fasilitas kredit yang diberikan untuk masyarakat usaha kecil dalam bentuk kredit modal kerja dengan jangka waktu kredit maksimal s/d 3 tahun.
+
+#### PERSYARATAN:
+
+- Warga Negara Indonesia (WNI);
+- Tidak tergolong dalam daftar black list di Bank Indonesia;
+- Usaha telah berjalan minimal 1 tahun;
+- Mengisi formulir aplikasi;
+- Kartu keluarga (KK) dan KTP suami isteri;
+- Surat Nikah (bagi yang telah menikah);
+- Surat ijin usaha (SIUP, TDP, HO dan SITU);
+
+#### KEUNGGULAN:
+
+- Proses lebih cepat dengan persyaratan mudah;
+- Suku bunga bersaing dengan jangka waktu hingga 3 tahun;
+- Plafond hingga maksimal Rp.25 juta;
+- Suku bunga 9 % / tahun.
+
+
