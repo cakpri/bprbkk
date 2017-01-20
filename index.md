@@ -38,9 +38,9 @@ layout: home
 					<div class="lined-text">
 					*) Syarat dan ketentuan berlaku
                     </div>
-                    <a href="/produk/simpanan" class="btn--wrapper js-buynow-welcome-bonus buynow">
+                    {<a href="/produk/simpanan" class="btn--wrapper js-buynow-welcome-bonus buynow">
                         <div class="btn btn-danger welcome-bonus">DAIHATSU "SIGRA"</div>
-                    </a>
+                    </a>}
                 </div>
             </div>
         </div>
