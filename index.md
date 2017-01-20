@@ -117,7 +117,7 @@ layout: home
                 </h3>
                 <div class="text-large text has_hide">SICIPTA 2017</div>
                 <div class="form-cont has_hide">
-                    <a href="#" class="buynow btn btn-success">Miliki Rekening Sicipta</a>
+                    <a href="#" class="buynow btn btn-success">Download disini</a>
                 </div>
 				<div class="lined-text">
 				<a href="/produk/kredit" class="text-default">Kredit</a> |
