@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 11 Tahun BPR BKK WONOGIRI
+title: 11 Tahun Merge PD. BPR BKK WONOGIRI
 subtitle:   "Satu Dalam Kebersamaan."
 description: ""
 author: "dwis"
