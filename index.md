@@ -26,7 +26,7 @@ layout: home
         <div class="vertical-block">
             <div class="text-center vertical-block--inner">
                 
-                <h1 class="text has_hide "> <br/>&laquo; Dapatkan Produk dan Layanan Kami... &raquo;                                    </h1>
+                <h1 class="text has_hide "> <br/>&laquo; Sesarengan Mbangun Wonogiri &raquo;                                    </h1>
                 
             </div>
         </div>
