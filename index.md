@@ -6,7 +6,7 @@ layout: home
 	<div class="container clearfix">
 		<i class="pull-left save"></i>
 		<p class="pull-left">
-			<b>Gebyar Tamades!</b><br>Terus tambah saldo Tamades anda.).
+			<b>Sesarengan mbangun Wonogiri!</b><br>Meraih Sukses Bersama, Bersama Meraih Sukses.).
 		</p>
 		<div class="pull-right">
 			<a class="buynow btn btn-success" href="/produk/simpanan">Ayo Menabung!</a>
@@ -17,7 +17,7 @@ layout: home
 	<div class="container clearfix">
 		<div class="b-logo pull-left"></div>
 		<div class="js--header-user pull-right b-header--user">
-			<a href="/news" class="text-default">Berita BPRBKK</a>
+			<a href="/news" class="text-default">Berita BPR BKK WONOGIRI</a>
 		</div>
 	</div>
 </div>
