@@ -25,23 +25,9 @@ layout: home
     <div class="section section1 section1__10off" data-index="1">
         <div class="vertical-block">
             <div class="text-center vertical-block--inner">
-                <p class="text has_hide b-platforms">Ayo ke BPR BKK Wonogiri di kotamu</p>
-                <h1 class="text has_hide ">Gebyar Sicipta 2017<br/>&laquo; Dapatkan hadiah menarik *) &raquo;                                    </h1>
-                <p class="text has_hide">
-                    Segera <b>Diundi bulan Januari 2017</b></p>
-                <div class="form-cont clearfix has_hide">
-                    <a href="/produk/simpanan" class="buynow btn btn-inverse btn-inverse-default">
-                        Tambah saldo anda</a>
-                    <div class="lined-text">
-                        berlaku di semua kantor Cabang <b>PD BPR BKK Wonogiri </b>
-					</div>
-					<div class="lined-text">
-					*) Syarat dan ketentuan berlaku
-                    </div>
-                    {<a href="/produk/simpanan" class="btn--wrapper js-buynow-welcome-bonus buynow">
-                        <div class="btn btn-danger welcome-bonus">DAIHATSU "SIGRA"</div>
-                    </a>}
-                </div>
+                <p class="text has_hide b-platforms">Ayo ke Bank</p>
+                <h1 class="text has_hide ">PD BPR BKK WONOGIRI<br/>&laquo; Dapatkan Produk dan Layanan Kami... &raquo;                                    </h1>
+                
             </div>
         </div>
     </div>
