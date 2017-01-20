@@ -113,9 +113,9 @@ layout: home
         <div class="vertical-block">
             <div class="text-center vertical-block--inner">
                 <h3 class="text has_hide">
-                    GEBYAR SICIPTA 2017<br><span class="text-thin">Tambah saldo Sicipta dan Dapatkan</span>
+                    GEBYAR SICIPTA 2017<br><span class="text-thin">Daftar Pemenang Undian </span>
                 </h3>
-                <div class="text-large text has_hide">Daihatsu SIGRA</div>
+                <div class="text-large text has_hide">SICIPTA 2017</div>
                 <div class="form-cont has_hide">
                     <a href="#" class="buynow btn btn-success">Miliki Rekening Sicipta</a>
                 </div>
