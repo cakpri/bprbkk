@@ -117,7 +117,7 @@ layout: home
                 </h3>
                 <div class="text-large text has_hide">SICIPTA 2017</div>
                 <div class="form-cont has_hide">
-                    <a href="publikasi/2016/201603.pdf" class="buynow btn btn-success">Download disini</a>
+                    <a href="publikasi/Undian/sicipta2017.jpg" class="buynow btn btn-success">Download disini</a>
                 </div>
 				<div class="lined-text">
 				<a href="/produk/kredit" class="text-default">Kredit</a> |
