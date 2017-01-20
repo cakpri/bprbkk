@@ -5,7 +5,7 @@ subtitle:   "Satu Dalam Kebersamaan."
 description: ""
 author: "dwis"
 date: 2017-01-05 14:44:00
-header-img: "images/bprbkk_blog.jpg"
+header-img: "images/blog/2017/donor darah 2017.png"
 ---
 ##BPR BKK Wonogiri Peduli
 <div style="text-align: justify;">Wonogiri - Kamis, 05 Januari 2017. Dalam rangka memperingati ulang tahun 11 Merger PD BPR BKK Wonogiri, menggelar kegiatan donor darah, Kamis (5/1/17) di halaman dan aula Kantor PD. BPR BKK WONOGIRI.
