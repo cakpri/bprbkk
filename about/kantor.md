@@ -9,8 +9,8 @@ layout: kantor
 			<img src="/images/kantor/pusat.png" class="img-responsive img-centered" alt="">
 			<h3><span class="label label-primary">Kantor Pusat Operasional</span></h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin KPO </p> <a href="/ajax/suparmo.html" 
-class="ajax-popup-link"> SUPARMO.SE </a>
+			<p class="text-muted">Pemimpin KPO </p> <a href="/ajax/suhartatik.html" 
+class="ajax-popup-link"> SUHARTATIK.SE </a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl. Jend. Sudirman No 234 Wonogiri.</em>
@@ -140,7 +140,7 @@ class="ajax-popup-link"> SUPARMO.SE </a>
 			<img src="/images/kantor/ngadirojo.png" class="img-responsive img-centered" alt="">
 			<h3>Ngadirojo</h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/suhartatik.html" class="ajax-popup-link"> SUHARTATIK. SE</a>
+			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/suyono.html" class="ajax-popup-link"> SUYONO. SE</a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl Kepodang No 4 Ngadirojo.</em>

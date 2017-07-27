@@ -4,7 +4,7 @@ layout: about
 
 ## BPRBKK
 
-Selamat berkunjung di situs [BPRBKK](http://www.bprbkk.co.id/), BPRBKK atau PD. BPR BKK WONOGIRI merupakan suatu lembaga keuangan di kabupaten Wonogiri yang bergerak dalam bidang Perbankan dengan kegiatan usaha sebagai BPR, menghimpun dan menyalurkan dana dari dan untuk masyarakat sesuai dengan undang-undang No.10 tahun 1998 tentang Perbankan.
+Selamat berkunjung di situs [BPRBKK](http://www.bprbkk.co.id/), atau PD. BPR BKK WONOGIRI merupakan suatu lembaga keuangan di kabupaten Wonogiri yang bergerak dalam bidang Perbankan dengan kegiatan usaha sebagai BPR, menghimpun dan menyalurkan dana dari dan untuk masyarakat sesuai dengan undang-undang No.10 tahun 1998 tentang Perbankan.
 
 ## PD. BPR BKK Wonogiri
 
