@@ -26,7 +26,7 @@ class="ajax-popup-link"> SUHARTATIK.SE </a>
 			<img src="/images/kantor/baturetno.png" class="img-responsive img-centered" alt="">
 			<h3>Baturetno</h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/agus_sriyanto.html" class="ajax-popup-link"> AGUS SRIYANTO, SE</a>
+			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/surjana.html" class="ajax-popup-link"> SURJANA, SE</a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl. Raya Baturetno - Wonogiri Km.3</em>
@@ -57,7 +57,7 @@ class="ajax-popup-link"> SUHARTATIK.SE </a>
 			<img src="/images/kantor/girimarto.png" class="img-responsive img-centered" alt="">
 			<h3>Girimarto</h3>
 			<hr class="colored">
-			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/yani-harmini.html" class="ajax-popup-link">YANI HARMINI, SP</a>
+			<p class="text-muted">Pemimpin Cabang </p> <a href="/ajax/hasyim.html" class="ajax-popup-link">MOHAMAD HASYIM, SE</a>
 			<ul class="list-unstyled text-muted">
 			<li>
 				<em>Alamat : Jl. Sinuwun No 29 Tambak Merang, Girimarto.</em>
