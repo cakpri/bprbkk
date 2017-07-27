@@ -93,7 +93,7 @@ layout: staff
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/suparmo.png" alt="Suparmo, SE"/><h4>Suparmo, SE</h4></a>
+			<a href="#"><img src="/images/managemen/suparmo.jpg" alt="Suparmo, SE"/><h4>Suparmo, SE</h4></a>
 			<span class="tooltip-content">Kepala Bidang Pemasaran PD BPR BKK Wonogiri</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
@@ -102,7 +102,7 @@ layout: staff
 			</div>
 		</div>
 		<div class="tooltip tooltip-effect-2">
-			<a href="#"><img src="/images/managemen/Yani Harmini.png" alt="Yani Harmini,SP"/><h4>Yani Harmini, SP</h4></a>
+			<a href="#"><img src="/images/managemen/Yani.jpg" alt="Yani Harmini,SP"/><h4>Yani Harmini, SP</h4></a>
 			<span class="tooltip-content">Kepala Bidang Kepatuhan dan Managemen Risiko PD BPR BKK Wonogiri</span>
 			<div class="tooltip-shape">
 				<svg height="165px" width="220px">
