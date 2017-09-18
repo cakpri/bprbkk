@@ -6,12 +6,7 @@ layout: home
 	<div class="container clearfix">
 		<i class="pull-left save"></i>
 		<p class="pull-left">
-			<div class="text-large text has_hide">Info Loker 2017</div>
-                <div class="form-cont has_hide">
-                    <a href="publikasi/Loker/Loker 2017.pdf" class="buynow btn btn-success">Download disini</a>
-                </div>
-			
-			<br>Meraih Sukses Bersama, Bersama Meraih Sukses.
+			<b>Sesarengan Mbangun Wonogiri!</b><br>Meraih Sukses Bersama, Bersama Meraih Sukses.
 		</p>
 		<div class="pull-right">
 			<a class="buynow btn btn-success" href="/produk/simpanan">Ayo Menabung!</a>
