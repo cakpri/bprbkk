@@ -3,7 +3,7 @@ layout: post
 title: Info Lowongan Pekerjaan PD BPR BKK Wonogiri
 subtitle:   "Info Lowongan Pekerjaan 2017."
 description: ""
-author: "supri"
+author: "cakpri"
 date: 2017-09-18 21:08:00
 header-img: "images/blog/2017/Loker3.jpg"
 ---
