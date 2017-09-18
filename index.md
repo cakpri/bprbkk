@@ -28,7 +28,7 @@ layout: home
                 
 				<div class="text-large text has_hide">INFO LOKER 2017</div>
                 <div class="form-cont has_hide">
-                    <a href="publikasi/loker/loker 2017.pdf" class="buynow btn btn-success">Download disini</a>
+                    <a href="publikasi/Loker/Loker2017.pdf" class="buynow btn btn-success">Download disini</a>
                 </div>
                 
             </div>
