@@ -25,14 +25,12 @@ layout: home
     <div class="section section1 section1__10off" data-index="1">
         <div class="vertical-block">
             <div class="text-center vertical-block--inner">
-                <h3 class="text has_hide">
-                    INFORMASI <br><span class="text-thin">LOWONGAN KERJA</span>
-                </h3>
-				<div class="text-large text has_hide">INFO LOKER 2017</div>
+                
+                <h1 class="text has_hide "> <br/>&laquo; Info Lowongan Kerja 2017;
+				</h1>
                 <div class="form-cont has_hide">
                     <a href="publikasi/Loker/Loker2017.pdf" class="buynow btn btn-success">Download disini</a>
                 </div>
-                
             </div>
         </div>
     </div>
