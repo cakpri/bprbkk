@@ -6,7 +6,7 @@ layout: home
 	<div class="container clearfix">
 		<i class="pull-left save"></i>
 		<p class="pull-left">
-			<b>Jangan Lupa!</b><br>Tambah terus saldo tabungan kamu dan dapatkan Toyota Agya.
+			<b>Jangan Lupa! Ya</b><br>Tambah terus saldo tabungan kamu dan dapatkan Toyota Agya.
 		</p>
 		<div class="pull-right">
 			<a class="buynow btn btn-success" href="/produk/simpanan">Ayo Menabung!</a>
