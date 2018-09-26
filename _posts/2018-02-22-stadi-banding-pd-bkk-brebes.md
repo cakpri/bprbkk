@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PD BPR BKK WONOGIRI TERIMA KUNJUNGAN STUDI BANDING PD BKK BREBES
+title: PD BPR BKK WONOGIRI TERIMA KUNJUNGAN ------------STUDI BANDING PD BKK BREBES
 subtitle:   "Tentang Penerapan Penilaian Kinerja Karyawan."
 description: ""
 author: "Haryono"
